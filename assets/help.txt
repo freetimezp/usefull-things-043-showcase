@@ -1,0 +1,3 @@
+https://unpkg.com/browse/panzoom@8.7.3/dist/panzoom.min.js
+
+https://fancyapps.com/panzoom/getting-started/
